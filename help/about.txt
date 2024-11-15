@@ -1,0 +1,29 @@
+<table border="0" style="border-collapse: separate; border-spacing: 10px; width: 100%; text-align: center;">
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;"><div><img src="./icons/paint-brush.png" /></div></td>
+		<td><div></div></td>
+            <td style="vertical-align: middle;" colspan="4"><div><h2 style="margin: 0;">The Pictionary Game</h2></div></td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Version Number:</h3>
+v1.0.0
+
+<h3>Developer Information:</h3>
+Developed by K. Smirnov
+
+<h3>App:</h3>
+HCI&GUI Project
+
+<h3>Description:</h3>
+The Pictionary Game, that allows players to guess the words.
+
+<h3>Acknowledgments:</h3>
+The application is made using PyQt library (Python).
+
+<h3>Contact us:</h3>
+<div align=""><a href="https://github.com/lamsq" target="_blank"><img src="./help/gh50.png" alt="Github" /></a></div>
+
+

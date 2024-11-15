@@ -1,0 +1,24 @@
+<h2>The Pictionary Game</h2>
+
+<h3>Players:</h3>
+<p>This game is designed for at least 2 players, up to 4 players at most. There are two types of players: Drawer and Guesser. Drawer is stated in the left window of the application below the "Current turn" label.</p>
+
+<h3>Components:</h3>
+<h4>Difficulty Level:</h4>
+Values: Easy, Hard; Sets the word to draw.
+
+<h4>Timer:</h4>
+Values: 30, 60, 90, 120 sec.; Counts down the time for drawing and guessing for each turn.
+
+<h4>Players:</h4>
+Values: 2, 3, 4; Left window has labels for each player along with the score.
+
+<h3>Rules:</h3>
+<p>Players set the <i>Difficulty level</i>, <i>Timer</i> and <i>Number of players</i> at the top part of the window.</p>
+<p>When the game is set up, the Drawer (first player) presses "Start" button, thus timer starts to count down, showing the amount of time remained for current drawer.</p>
+<p>If other players has any guesses, they can press the button in the bottom part of the left window, according to their role. Only the chosen player and drawer will be scored in case of a right guess.</p>
+<p>The game is infinite, it continues until players reset it or quit the application.</p> 
+
+
+
+
